@@ -1,7 +1,7 @@
 project_name: "app-data-dictionary"
 
 application: data-dictionary {
-  label: "Looker Data Dictionary"
+  label: "Looker Data Dictionary - AK"
   file: "dist/bundle.js"
   entitlements: {
     local_storage: yes
